@@ -1,5 +1,7 @@
 
-/* $Id: style.css,v 1.2 2007/05/10 15:28:27 scott Exp $ */
+/* $Id: style.css,v 1.3 2007/06/09 13:47:10 scott Exp $ */
+
+/* Author: Scott Smedley */
 
 h3.fn,span.fn
 {
@@ -43,6 +45,13 @@ body pre
 	/* background: antiquewhite; */
 	background: #d3d3d3; /* lightgrey */
 	color: black
+}
+
+body
+{
+	background: white;
+        margin-left: 0.7cm;
+        margin-right: 0.7cm;
 }
 
 span.preprocessor, span.preprocessor a
